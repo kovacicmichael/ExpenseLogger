@@ -1,0 +1,19 @@
+{
+  "name": "expenselogger",
+  "version": "1.0.0",
+  "description": "App to help track expenses and income",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kovacicmichael/ExpenseLogger.git"
+  },
+  "author": "Michael",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kovacicmichael/ExpenseLogger/issues"
+  },
+  "homepage": "https://github.com/kovacicmichael/ExpenseLogger#readme"
+}
